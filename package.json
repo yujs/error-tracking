@@ -1,0 +1,22 @@
+{
+  "name": "error-tracking",
+  "version": "1.0.1",
+  "description": "🐞 Error tracking library for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yujs/error-tracking.git"
+  },
+  "author": "yujs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yujs/error-tracking/issues"
+  },
+  "homepage": "https://github.com/yujs/error-tracking#readme",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+ }
+}
